@@ -4,13 +4,16 @@
 <table>
     <thead>
         <tr>
-            <th>The table header</th>
+            <th>Number Problem</th>
+            <th>Problem Name</th>
+            <th>Dificulties</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
+            <td> 1 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/1_Two_Sum.py"> Two Sum </a> </td>
+            <td> Easy </td>
         </tr>
     </tbody>
 </table>
