@@ -6,12 +6,10 @@
         <tr>
             <th> Number Problem.</th>
         </tr>
-    </thead>
-    
-    <tbody>
+        
         <tr>
             <td> 1 </td>
         </tr>
-    </tbody>
+    </thead>
         
 </table>
