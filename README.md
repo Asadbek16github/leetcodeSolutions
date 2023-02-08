@@ -11,5 +11,10 @@
     </thead>
   
     <tbody>
+          <tr>
+             <td> 1 <td>
+             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/1_Two_Sum.py"> Two Sum </a> <td>
+             <td> Easy <td>
+          </tr>
     </tbody>
 </table>
