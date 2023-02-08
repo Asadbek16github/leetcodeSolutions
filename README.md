@@ -15,5 +15,10 @@
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/1_Two_Sum.py"> Two Sum </a> </td>
             <td> Easy </td>
         </tr>
+        <tr>
+            <td> 45 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/45_Jump_Game_II.py"> Jump Game II </a> </td>
+            <td> Medium </td>
+        </tr>
     </tbody>
 </table>
