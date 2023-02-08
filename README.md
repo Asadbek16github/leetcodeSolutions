@@ -11,10 +11,23 @@
     </thead>
   
     <tbody>
-          <tr>
-             <td> 1 </td>
-             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/1_Two_Sum.py"> Two Sum </a> </td>
-             <td> Easy </td>
-          </tr>
-    </tbody>
+                <tr style="background-color:chartreuse;">
+                    <td>1</td>
+                    <td>Shomurodov</td>
+                    <td>Asadbek</td>
+                    <td>162.75</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>O'rinov</td>
+                    <td>Sherzod</td>
+                    <td>155.6</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Normuhammadov</td>
+                    <td>Asilbek</td>
+                    <td>150.4</td>
+                </tr>
+            </tbody>
 </table>
