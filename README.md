@@ -32,7 +32,7 @@
         </tr>
         <tr>
             <td> 334 </td>
-            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/68f6cb633c059a3969422080554f1b94792bbca5"> Move Zeroes </a> </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/68f6cb633c059a3969422080554f1b94792bbca5"> Reverse Sitring </a> </td>
             <td> Easy </td>
         </tr>
         <tr>
