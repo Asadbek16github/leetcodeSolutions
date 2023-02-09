@@ -20,5 +20,10 @@
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/45_Jump_Game_II.py"> Jump Game II </a> </td>
             <td> Medium </td>
         </tr>
+        <tr>
+            <td> 953 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/3581de55071c36371bf11133440a0b228385681e"> Verifiying An Alian Dictionary </a> </td>
+            <td> Easy </td>
+        </tr>
     </tbody>
 </table>
