@@ -31,6 +31,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 334 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/68f6cb633c059a3969422080554f1b94792bbca5"> Move Zeroes </a> </td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 953 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/3581de55071c36371bf11133440a0b228385681e"> Verifiying An Alian Dictionary </a> </td>
             <td> Easy </td>
