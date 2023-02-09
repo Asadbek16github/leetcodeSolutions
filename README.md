@@ -21,6 +21,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 283 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/c434bf9d951a876d4ce40f1db96351f08f1ba201"> Move Zeroes </a> </td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 953 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/3581de55071c36371bf11133440a0b228385681e"> Verifiying An Alian Dictionary </a> </td>
             <td> Easy </td>
