@@ -36,6 +36,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 438 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/73113a352015149269baafab8ffb9938e8b85ed2"> Find All Anagrams In A String </a> </td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 953 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/3581de55071c36371bf11133440a0b228385681e"> Verifiying An Alian Dictionary </a> </td>
             <td> Easy </td>
