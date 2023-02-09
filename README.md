@@ -25,5 +25,11 @@
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/3581de55071c36371bf11133440a0b228385681e"> Verifiying An Alian Dictionary </a> </td>
             <td> Easy </td>
         </tr>
+        <tr>
+            <td> 2306 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/c63ee7c4004bcb639cb162b1dbbc96db45ac80da">Naming a Company
+</a></td>
+            <td> Hard </td>
+        </tr>
     </tbody>
 </table>
