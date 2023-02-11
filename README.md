@@ -47,6 +47,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 876 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/412403505e6017502fde1179d53e11e447cc11a7">Middle of the Linked List </a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 953 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/3581de55071c36371bf11133440a0b228385681e"> Verifiying An Alian Dictionary </a> </td>
             <td> Easy </td>
