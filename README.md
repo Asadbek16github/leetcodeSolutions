@@ -26,6 +26,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 278 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/1a34adcdb77d8f317f33ff670ced02a32f56d661">First Bad Version</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 283 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/c434bf9d951a876d4ce40f1db96351f08f1ba201"> Move Zeroes </a> </td>
             <td> Easy </td>
