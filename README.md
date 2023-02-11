@@ -16,6 +16,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 35 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/89eb33aff2f7e4b1e23b2ea928dcd568d21baa61"> Search Insert Position </a> </td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 45 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/45_Jump_Game_II.py"> Jump Game II </a> </td>
             <td> Medium </td>
