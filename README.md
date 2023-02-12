@@ -16,6 +16,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 3 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/7ec7882365d07b2755df5572be7e950fe35c70ba">Longest Substring Without Repeating Characters</a></td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 35 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/89eb33aff2f7e4b1e23b2ea928dcd568d21baa61"> Search Insert Position </a> </td>
             <td> Easy </td>
