@@ -57,6 +57,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 567 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/45a4073e27e594f193366cf3e9b75237ceaa72b6"> Permutation in String </a> </td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 876 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/412403505e6017502fde1179d53e11e447cc11a7">Middle of the Linked List </a></td>
             <td> Easy </td>
