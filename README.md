@@ -36,6 +36,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 217 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/8ded07733867b98b628efc4628663faca6eb3720"> Contains Duplicate </a> </td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 278 </td>
             <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/1a34adcdb77d8f317f33ff670ced02a32f56d661">First Bad Version</a></td>
             <td> Easy </td>
