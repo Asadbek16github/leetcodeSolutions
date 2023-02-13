@@ -97,6 +97,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 1523 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/d3d790af21e50d822217132b41ed98b3e53a99df">Count Odd Numbers in an Interval Range</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 2306 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/c63ee7c4004bcb639cb162b1dbbc96db45ac80da">Naming a Company
 </a></td>
