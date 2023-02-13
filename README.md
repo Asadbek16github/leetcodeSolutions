@@ -16,6 +16,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 2 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/2d33e92feb169a708bca20f380830cbe22acea78"> Add Two Numbers </a> </td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 3 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/7ec7882365d07b2755df5572be7e950fe35c70ba">Longest Substring Without Repeating Characters</a></td>
             <td> Medium </td>
