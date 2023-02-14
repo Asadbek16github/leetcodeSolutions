@@ -82,6 +82,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 617 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/617_Merge_Two_Binary_Trees.py"> Merge Two Binary Trees </a> </td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 695 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/695_Max_Area_of_Island.py"> Max area of island </a> </td>
             <td> Medium </td>
