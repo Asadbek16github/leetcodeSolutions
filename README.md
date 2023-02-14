@@ -66,6 +66,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 350 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/350_Intersection_of_Two_Arrays_II.py">Intersection of Two Arrays II</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 438 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/73113a352015149269baafab8ffb9938e8b85ed2"> Find All Anagrams In A String </a> </td>
             <td> Medium </td>
