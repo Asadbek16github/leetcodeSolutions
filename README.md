@@ -76,6 +76,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 542 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/542_01_Matrix.py">01 Matrix</a></td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 557 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/a4c44d4bc72e9e267542adacb27768fb28d44279"> Reverse Words in a String III
  </a> </td>
