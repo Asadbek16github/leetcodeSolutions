@@ -117,6 +117,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 994 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/994_Rotting_Oranges.py">Rotting Oranges</a></td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 1162 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/d8b6fc4b3a4e190d94217d74b94e0d8d3518b5af"> As Far from Land as Possible </a> </td>
             <td> Medium </td>
