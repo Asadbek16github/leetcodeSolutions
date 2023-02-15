@@ -112,6 +112,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 989 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/989_Add_to_Array_form_of_Integer.py">Add to Array-Form of Integer</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 1162 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/d8b6fc4b3a4e190d94217d74b94e0d8d3518b5af"> As Far from Land as Possible </a> </td>
             <td> Medium </td>
