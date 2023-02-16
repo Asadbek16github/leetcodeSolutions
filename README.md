@@ -36,6 +36,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 36 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/36_Valid_Sudoku.py">Valid Sudoku</a></td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 45 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/45_Jump_Game_II.py"> Jump Game II </a> </td>
             <td> Medium </td>
