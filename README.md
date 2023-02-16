@@ -26,6 +26,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 21 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/21_Merge_Two_Sorted_Lists.py">Merge Two Sorted Lists</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 35 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/89eb33aff2f7e4b1e23b2ea928dcd568d21baa61"> Search Insert Position </a> </td>
             <td> Easy </td>
