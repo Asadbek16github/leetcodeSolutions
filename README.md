@@ -87,6 +87,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 566 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/566_Reshape_the_Matrix.py"> Reshape the Matrix </a> </td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 567 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/45a4073e27e594f193366cf3e9b75237ceaa72b6"> Permutation in String </a> </td>
             <td> Medium </td>
