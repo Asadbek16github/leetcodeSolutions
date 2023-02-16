@@ -56,6 +56,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 206 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/206_Reverse_Linked_List.py"> Reverse Linked List </a> </td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 217 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/8ded07733867b98b628efc4628663faca6eb3720"> Contains Duplicate </a> </td>
             <td> Easy </td>
