@@ -46,6 +46,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 74 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/74_Search_2D_Matrix.py"> Search 2D Matrix </a> </td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 104 </td>
             <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/104_Maximum_Depth_of_Binary_Tree.py">Maximum depth of binary tree </a></td>
             <td> Easy </td>
