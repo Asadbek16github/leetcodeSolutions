@@ -41,6 +41,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 104 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/104_Maximum_Depth_of_Binary_Tree.py">Maximum depth of binary tree </a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 167 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/a1d7d10dc791e1c92ef1575a04815779fd28d23c"> Two Sum II </a> </td>
             <td> Medium </td>
