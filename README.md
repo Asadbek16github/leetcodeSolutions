@@ -76,6 +76,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 191 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/191_Number_of_1_Bits.py"> Number of 1 Bits </a> </td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 206 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/206_Reverse_Linked_List.py"> Reverse Linked List </a> </td>
             <td> Easy </td>
