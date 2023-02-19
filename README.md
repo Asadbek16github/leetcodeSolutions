@@ -61,6 +61,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 103 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/103_Binary_Tree_Zigzag_Level_Order_Traversal.py"> Binary Tree Zigzag Level Order Traversal </a> </td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 104 </td>
             <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/104_Maximum_Depth_of_Binary_Tree.py">Maximum depth of binary tree </a></td>
             <td> Easy </td>
