@@ -207,5 +207,10 @@
 </a></td>
             <td> Hard </td>
         </tr>
+        <tr>
+            <td> 2571 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2571_Minimum_Operations_to_Reduce_an_Integer_to_0.py">Minimum Operations to Reduce an Integer to 0</a></td>
+            <td> Medium </td>
+        </tr>
     </tbody>
 </table>
