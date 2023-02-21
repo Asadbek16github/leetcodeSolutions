@@ -131,6 +131,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 540 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/540_Single_Element_in_a_Sorted_Array.py">Single Element in a Sorted Array</a></td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 542 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/542_01_Matrix.py">01 Matrix</a></td>
             <td> Medium </td>
