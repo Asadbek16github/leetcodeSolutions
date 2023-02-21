@@ -217,6 +217,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 1757 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/1757_Recyclable_and_Low_Fat_Products.sql">Recyclable and Low Fat Products</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 2306 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/c63ee7c4004bcb639cb162b1dbbc96db45ac80da">Naming a Company
 </a></td>
