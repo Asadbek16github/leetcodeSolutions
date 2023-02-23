@@ -56,6 +56,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 66 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/66_Plus_One.py"> Plus One </a> </td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 67 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/67_Add_Binary.py"> Add Binary </a> </td>
             <td> Easy </td>
