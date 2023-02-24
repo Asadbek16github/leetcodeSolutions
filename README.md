@@ -13,7 +13,7 @@
         <tr>
             <td> 1 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/1_Two_Sum.py"> Two Sum </a> </td>
-            <td style="background-color: greenyellow;"> Easy </td>
+            <td> Easy </td>
         </tr>
         <tr>
             <td> 2 </td>
@@ -175,6 +175,11 @@
             <td> 695 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/695_Max_Area_of_Island.py"> Max area of island </a> </td>
             <td> Medium </td>
+        </tr>
+        <tr>
+            <td> 704 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/704_Binary_Search.py"> Binary Search </a> </td>
+            <td> Easy </td>
         </tr>
         <tr>
             <td> 733 </td>
