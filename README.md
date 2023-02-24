@@ -13,7 +13,7 @@
         <tr>
             <td> 1 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/1_Two_Sum.py"> Two Sum </a> </td>
-            <td style='backgroundcolor: green'> Easy </td>
+            <td style="background-color: greenyellow;"> Easy </td>
         </tr>
         <tr>
             <td> 2 </td>
