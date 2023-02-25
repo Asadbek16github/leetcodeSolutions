@@ -232,6 +232,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 1920 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/1920_Build_Array_from_Permutation.py">Build Array from Permutation</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 2306 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/c63ee7c4004bcb639cb162b1dbbc96db45ac80da">Naming a Company
 </a></td>
