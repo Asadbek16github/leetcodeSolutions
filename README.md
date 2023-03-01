@@ -86,6 +86,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 121 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/121_Best_Time_to_Buy_and_Sell_Stock.py">Best Time to Buy and Sell Stock</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 167 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/a1d7d10dc791e1c92ef1575a04815779fd28d23c"> Two Sum II </a> </td>
             <td> Medium </td>
