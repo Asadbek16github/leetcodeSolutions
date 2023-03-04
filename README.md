@@ -41,6 +41,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 28 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/28_Find_the_Index_of_the_First_Occurrence_in_a_String.py">Find the Index of the First Occurrence in a String</a></td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 35 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/89eb33aff2f7e4b1e23b2ea928dcd568d21baa61"> Search Insert Position </a> </td>
             <td> Easy </td>
