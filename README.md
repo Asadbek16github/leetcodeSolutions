@@ -272,5 +272,10 @@
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2571_Minimum_Operations_to_Reduce_an_Integer_to_0.py">Minimum Operations to Reduce an Integer to 0</a></td>
             <td> Medium </td>
         </tr>
+        <tr>
+            <td> 2578 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2578_Split_With_Minimum_Sum.py">Split With Minimum Sum</a></td>
+            <td> Easy </td>
+        </tr>
     </tbody>
 </table>
