@@ -277,5 +277,10 @@
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2578_Split_With_Minimum_Sum.py">Split With Minimum Sum</a></td>
             <td> Easy </td>
         </tr>
+        <tr>
+            <td> 2579 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2579_Count_Total_Number_of_Colored_Cells.py">Count Total Number of Colored Cells</a></td>
+            <td> Medium </td>
+        </tr>
     </tbody>
 </table>
