@@ -232,6 +232,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 1290 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.py">Convert Binary Number in a Linked List to Integer</a></td>
+            <td>Easy</td>
+        </tr>
+        <tr>
             <td> 1365 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/e361caff0bf01e6403f377645a3abb9419ba0af8"> How Many Numbers Are Smaller Than the Current Number </a> </td>
             <td> Easy </td>
