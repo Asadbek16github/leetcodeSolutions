@@ -202,6 +202,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 875 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/875_Koko_Eating_Bananas.py">Koko Eating Bananas</a></td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 876 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/412403505e6017502fde1179d53e11e447cc11a7">Middle of the Linked List </a></td>
             <td> Easy </td>
