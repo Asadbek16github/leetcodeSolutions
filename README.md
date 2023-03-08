@@ -41,6 +41,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 23 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/23_Merge_k_Sorted_Lists.py">Merge k Sorted Lists</a></td>
+            <td> Hard </td>
+        </tr>
+        <tr>
             <td> 28 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/28_Find_the_Index_of_the_First_Occurrence_in_a_String.py">Find the Index of the First Occurrence in a String</a></td>
             <td> Medium </td>
