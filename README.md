@@ -105,7 +105,6 @@
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/a1d7d10dc791e1c92ef1575a04815779fd28d23c"> Two Sum II </a> </td>
             <td> Medium </td>
         </tr>
-        
         <tr>
             <td> 191 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/191_Number_of_1_Bits.py"> Number of 1 Bits </a> </td>
