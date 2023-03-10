@@ -91,6 +91,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 118 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/118_Pascal_triangle.py">Pascal's Triangle</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 120 </td>
             <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/120_Triangle.py">Triangle</a></td>
             <td> Medium </td>
@@ -105,6 +110,7 @@
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/commit/a1d7d10dc791e1c92ef1575a04815779fd28d23c"> Two Sum II </a> </td>
             <td> Medium </td>
         </tr>
+        
         <tr>
             <td> 191 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/191_Number_of_1_Bits.py"> Number of 1 Bits </a> </td>
