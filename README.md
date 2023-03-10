@@ -91,11 +91,6 @@
             <td> Easy </td>
         </tr>
         <tr>
-            <td> 118 </td>
-            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/118_Pascal_triangle.py">Pascal's Triangle</a></td>
-            <td> Easy </td>
-        </tr>
-        <tr>
             <td> 120 </td>
             <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/120_Triangle.py">Triangle</a></td>
             <td> Medium </td>
