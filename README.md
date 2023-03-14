@@ -30,6 +30,11 @@
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/6_Zigzag_Conversion.py">Zigzag Conversion</a></td>
             <td> Medium </td>
         </tr>
+         <tr>
+            <td> 14 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/14_Longest_Common_Prefix.py">Longest common prefix</a></td>
+            <td>Easy</td>
+        </tr>
         <tr>
             <td> 19 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/19_Remove_Nth_Node_from_End_of_list.py">Remove Nth Node From End of List</a></td>
