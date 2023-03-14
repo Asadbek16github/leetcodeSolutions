@@ -307,5 +307,10 @@
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2579_Count_Total_Number_of_Colored_Cells.py">Count Total Number of Colored Cells</a></td>
             <td> Medium </td>
         </tr>
+        <tr>
+            <td> 2586 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2586_Count_the_Number_of_Vowel_Strings_in_Range.py">Count the Number of Vowel Strings in Range</a></td>
+            <td>Easy</td>
+        </tr>
     </tbody>
 </table>
