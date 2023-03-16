@@ -282,6 +282,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td>2160</td>
+            <td><a href="">https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/</a>Minimum Sum of Four Digit Number After Splitting Digits</td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 2181 </td>
             <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2181_Merge_Nodes_in_Between_Zeros.py">Merge Nodes in Between Zeros</a></td>
             <td> Medium </td>
