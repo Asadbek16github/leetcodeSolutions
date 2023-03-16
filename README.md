@@ -283,7 +283,7 @@
         </tr>
         <tr>
             <td>2160</td>
-            <td><a href="">https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/</a>Minimum Sum of Four Digit Number After Splitting Digits</td>
+            <td><a href="https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/">Minimum Sum of Four Digit Number After Splitting Digits</a></td>
             <td> Easy </td>
         </tr>
         <tr>
