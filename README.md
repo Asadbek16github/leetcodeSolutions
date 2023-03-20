@@ -192,6 +192,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td>605</td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/605_Can_Place_Flowers.py">Can Place Flowers</a></td>
+            <td>Easy</td>
+        </tr>
+        <tr>
             <td> 617 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/617_Merge_Two_Binary_Trees.py"> Merge Two Binary Trees </a> </td>
             <td> Easy </td>
