@@ -308,6 +308,11 @@
             <td> Hard </td>
         </tr>
         <tr>
+            <td> 2348 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2348_Number_of_Zero_Filled_Subarrays.py">Number of Zero-Filled Subarrays</a></td>
+            <td>Medium </td>
+        </tr>
+        <tr>
             <td> 2367 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2367_Number_of_Arithmetic_Triplets.py">Number of Arithmetic Triplets</a></td>
             <td> Easy </td>
