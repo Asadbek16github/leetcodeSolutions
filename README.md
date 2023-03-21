@@ -282,6 +282,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 1678 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/1678_Goal_Parser_Interpretation.py">Goal Parser Interpretation</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 1757 </td>
             <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/1757_Recyclable_and_Low_Fat_Products.sql">Recyclable and Low Fat Products</a></td>
             <td> Easy </td>
