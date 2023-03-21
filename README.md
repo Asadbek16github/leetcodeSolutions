@@ -217,6 +217,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 771 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/771_Jewels_and_Stones.py">Jewels and Stones</a></td>
+            <td> Easy </td>
+        </tr>
+        <tr>
             <td> 783 </td>
             <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/783_Minimum_distance_between_BST_nodes.py">Minimum Distance Between BST Nodes</a></td>
             <td> Easy </td>
