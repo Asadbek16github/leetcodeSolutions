@@ -71,6 +71,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 64 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/64_minimum_path_sum.py"> Minimum path sum </a> </td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 66 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/66_Plus_One.py"> Plus One </a> </td>
             <td> Easy </td>
