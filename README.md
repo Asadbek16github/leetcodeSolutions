@@ -242,6 +242,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 881 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/881_Boats_to_Save_People.py">Boats to Save People</a></td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 912 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/912_Sort_an_Array.py">Sort an Array</a></td>
             <td> Medium </td>
