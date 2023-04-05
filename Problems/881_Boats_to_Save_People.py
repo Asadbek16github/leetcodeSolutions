@@ -10,5 +10,5 @@ class Solution:
             counter+=1
             r-=1
         return counter
-    
+
 print(Solution().numRescueBoats(people = [1,2], limit = 3))
