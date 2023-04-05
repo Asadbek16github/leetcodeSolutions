@@ -338,6 +338,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 2405 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2405_Optimal_Partition_of_String.py">Optimal Partition of String</a></td>
+            <td>Medium</td>
+        </tr>
+        <tr>
             <td> 2439 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2439_Minimize_Maximum_of_Array.py">Minimize Maximum of Array</a></td>
             <td>Medium</td>
