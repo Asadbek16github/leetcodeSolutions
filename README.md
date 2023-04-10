@@ -42,7 +42,7 @@
         </tr>
         <tr>
             <td> 20 </td>
-            <td><a href="">Valid Parentheses</a></td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/20_Valid_Parentheses.py">Valid Parentheses</a></td>
             <td>Easy</td>
         </tr>
         <tr>
