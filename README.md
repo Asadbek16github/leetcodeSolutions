@@ -91,6 +91,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 71 </td>
+            <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/71_Simplify_Path.py">Simplify Path</a> </td>
+            <td> Medium </td>
+        </tr>
+        <tr>
             <td> 74 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/74_Search_2D_Matrix.py"> Search 2D Matrix </a> </td>
             <td> Medium </td>
