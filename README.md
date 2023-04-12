@@ -348,6 +348,11 @@
             <td> Easy </td>
         </tr>
         <tr>
+            <td> 2390 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2390_Removing_Stars_From_a_String.py">Removing Stars From a String</a></td>
+            <td>Medium</td>
+        </tr>
+        <tr>
             <td> 2405 </td>
             <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/2405_Optimal_Partition_of_String.py">Optimal Partition of String</a></td>
             <td>Medium</td>
