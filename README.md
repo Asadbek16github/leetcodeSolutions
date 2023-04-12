@@ -41,6 +41,11 @@
             <td> Medium </td>
         </tr>
         <tr>
+            <td> 20 </td>
+            <td><a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/20_Valid_Parentheses.py">Valid Parentheses</a></td>
+            <td>Easy</td>
+        </tr>
+        <tr>
             <td> 21 </td>
             <td> <a href="https://github.com/Asadbek16github/leetcodeSolutions/blob/master/Problems/21_Merge_Two_Sorted_Lists.py">Merge Two Sorted Lists</a></td>
             <td> Easy </td>
